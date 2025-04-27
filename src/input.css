@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --font-worksans: Work Sans, sans-serif;
+    --color-primary: #2947A9;
+    --color-secondary: #F9995D;
+    --color-bluish-gray: #3D445C;
+    --color-dark-bluish-gray: #292E3D;
+    --color-light-bluish-gray: #C2C7D6;
+    --color-muted-blue-gray: #858EAD;
+    --color-light-grayish-green: #F6F8F7;
+    --color-deep-navy-blue: #1c2f80;
+  }
